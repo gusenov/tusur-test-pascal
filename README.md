@@ -17,3 +17,5 @@
   - [Вопрос № 7](errors/question-7.txt)
   - [Вопрос № 12](errors/question-12.txt)
   - [Вопрос № 15](errors/question-15.txt)
+
+[Полезные ссылки](REFERENCES.md)
