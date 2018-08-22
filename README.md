@@ -7,3 +7,13 @@
 [Примеры задач](demo/)
 
 [Попытка № 1](test1/)
+
+Попытка № 2:
+- [Задачи](test2/)
+- [Мои ответы](test2-before-send/)
+- [Исходный код](src/)
+- [Правильные ответы](test2-after-send/)
+- Работа над ошибками:
+  - [Вопрос № 7](errors/question-7.txt)
+  - [Вопрос № 12](errors/question-12.txt)
+  - [Вопрос № 15](errors/question-15.txt)
